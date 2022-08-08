@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "up-down-lines-dark-mode-8k-m4-1125x2436.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
